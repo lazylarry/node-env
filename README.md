@@ -22,7 +22,7 @@ A simple demo that prints the server's environment variables.
 ## Deploying to Stackato
 
     stackato push -n --reset --as 'node-env'
-## Wayne Deploy with logs again, and again, and again TEST
+## Wayne Deploy with logs again, and again, and again, and again TEST
     
     
 
