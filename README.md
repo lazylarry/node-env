@@ -22,7 +22,7 @@ A simple demo that prints the server's environment variables.
 ## Deploying to Stackato
 
     stackato push -n --reset --as 'node-env'
-## Wayne mocha puke path TEST
+## Wayne mocha puke path pwd TEST
     
     
 
