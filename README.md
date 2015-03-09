@@ -10,4 +10,4 @@ A simple demo that prints the server's environment variables.
 
     helion push -n --reset --as 'node-env'
     
-Debug States
+Debug deploy hang
