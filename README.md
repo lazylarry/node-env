@@ -10,5 +10,4 @@ A simple demo that prints the server's environment variables.
 
     helion push -n --reset --as 'node-env'
     
-Debug logs
-more and more
+HOLY @#%@#$%@#$
